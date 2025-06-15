@@ -76,7 +76,7 @@ Technologies:
 
 ---
 
-## 📈 Why Choose Me?
+  ## 📈 Why MeowCatto?
 
 - ⚡ **Rapid Response** - 24/7 availability for critical issues
 - 🎯 **Proven Results** - Track record with Lithuania's largest gaming communities
